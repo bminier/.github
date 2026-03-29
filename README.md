@@ -6,13 +6,11 @@
 - 🌱 I'm always learning and exploring new technologies
 - 💬 Ask me about software development and open source
 
-
 ## Skills & Technologies
 
 - 💻 Software Development
 - 🛠️ Open Source Contributions
 - 🔧 Problem Solving
-
 
 ---
 
